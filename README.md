@@ -8,4 +8,4 @@ LogfileLocation = Fully qualified location of the log file, including the name a
 ###Running the application
 After configuring the settings, simply run the WatchDog.exe located in the Dist folder
 ### Building the application
-If changes are made to the python script, re run the "CreatePackage.bat" file
+If changes are made to the python script, re run the "CreatePackage.bat" file. Requires Python 3.11 and pyinstaller (pip pyinstaller once python 3.11 is installed)
